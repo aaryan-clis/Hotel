@@ -1,0 +1,47 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    text-align: center; 
+    
+    color: crimson;
+    text-shadow: 1px 2px 0 lightblue , 13px 13px 45px yellowgreen, 1px 0px 0px grey;
+    
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+li{
+    float: left;
+    margin-bottom: 59px;
+    
+}
+li a {
+    display: block;
+    color: crimson;
+    padding: 8px 16px;
+    text-decoration: none;
+    background-color: white;
+    
+
+    }
+    h2{
+        margin-top:  65px;
+        color: crimson;
+        text-align: center;
+       margin-left: 12px;
+       margin-right: 248px;
+       font-size: 45px;
+
+    }
+    h3{
+        color: aliceblue;
+        text-align: center;
+        
+        
+    }
